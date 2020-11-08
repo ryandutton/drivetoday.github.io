@@ -4,7 +4,7 @@ title: "Drive Today"
 description: "All things driving, reviews and great content."
 logo: 'assets/images/dt-rect.png'
 favicon: 'assets/images/dt.ico'
-baseurl: ''
+baseurl: '/drivetoday.github.io'
 google_analytics: 'G-TEPW01EEMR'
 disqus: 'demowebsite'
 mailchimp-list: ''

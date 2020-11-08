@@ -24,14 +24,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/terraform" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/blog" />
       <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604851871855</updated>
       <workItem from="1604851872917" duration="5786000" />
-      <workItem from="1604863915001" duration="9021000" />
+      <workItem from="1604863915001" duration="9491000" />
     </task>
     <servers />
   </component>
@@ -78,10 +79,10 @@
     </state>
     <state x="667" y="285" width="586" height="490" key="find.popup/1920.203.1440.877/0.23.1920.1014@0.23.1920.1014" timestamp="1604854562084" />
     <state x="667" y="287" width="586" height="493" key="find.popup/1920.203.1440.877/0.23.1920.1020@0.23.1920.1020" timestamp="1604874773649" />
-    <state x="625" y="248" width="670" height="680" key="search.everywhere.popup" timestamp="1604875003427">
+    <state x="625" y="248" width="670" height="680" key="search.everywhere.popup" timestamp="1604876131108">
       <screen x="0" y="23" width="1920" height="1020" />
     </state>
     <state x="625" y="247" width="670" height="676" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1014@0.23.1920.1014" timestamp="1604855139272" />
-    <state x="625" y="248" width="670" height="680" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1020@0.23.1920.1020" timestamp="1604875003427" />
+    <state x="625" y="248" width="670" height="680" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1020@0.23.1920.1020" timestamp="1604876131108" />
   </component>
 </project>
