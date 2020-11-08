@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+    jekyll:
+        image: jekyll/jekyll:latest
+        command: jekyll serve --force_polling
+        args:
+            - JEKYLL_ENV="production"
+        ports:
+            - 4000:4000
+        volumes:
+            - ./blog:/srv/jekyll
+    terraform:
+        image: hashicorp/terraform:latest
+        build: ./Dockerfile.terraform
+        volumes:
+            - ./:/usr/src/app
