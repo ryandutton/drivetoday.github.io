@@ -3,10 +3,10 @@
   <channel>
     <title>Drive Today</title>
     <description>All things driving, reviews and great content.</description>
-    <link>/drivetoday.github.io/</link>
-    <atom:link href="/drivetoday.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Nov 2020 20:37:10 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2020 20:37:10 +0000</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Nov 2020 20:44:14 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2020 20:44:14 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 &lt;p&gt;Overall, I highly approve of the Mini Cooper S, it is extremely enjoyable and put and smile on my face and keep it there the entire time that I was behind the wheel. Although this may not be the most practical car particularly for carrying large loads, it is certainly a fun car and will make a fantastic Sunday driver.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-        <link>/drivetoday.github.io/mini-cooper-s-sport-hatch/</link>
-        <guid isPermaLink="true">/drivetoday.github.io/mini-cooper-s-sport-hatch/</guid>
+        <link>/mini-cooper-s-sport-hatch/</link>
+        <guid isPermaLink="true">/mini-cooper-s-sport-hatch/</guid>
         
         <category>Drive</category>
         
@@ -55,8 +55,8 @@
 &lt;p&gt;Many of the E90 3 series came without a console screen, for many people that may be considered a negative factor when deciding if they wanted to own and drive a car. For me it was a blessing, it was less of a distraction and when night driving it became much more engaging not having a distractive bright screen lighting up the entire interior. I was able to focus more on the road ahead and became more immersed in the driving experience.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Sep 2020 00:00:00 +0100</pubDate>
-        <link>/drivetoday.github.io/bmw-3-series-e90/</link>
-        <guid isPermaLink="true">/drivetoday.github.io/bmw-3-series-e90/</guid>
+        <link>/bmw-3-series-e90/</link>
+        <guid isPermaLink="true">/bmw-3-series-e90/</guid>
         
         <category>Drive</category>
         
