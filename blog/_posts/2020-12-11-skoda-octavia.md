@@ -17,9 +17,6 @@ Price: £21,105
 - Top Speed: 133 MPH
 - 0-60 MPH: 8.4 Secs
 
-- slow transmission
-- build quality as expected for the standard edition
-
 Skoda Octavia estates most impressive feature has got to be the uncompromising space that it comes with. There is enough space in there to cater for adventurous be it camping, golfing, skiing, or even a trip down to the DIY store.
 
 The space this car provides will be appealing to anyone who uses their car for more than just commuting and weekly shop. As mentioned above, the boot size alone can accommodate a variety of different scenarios such as an airport run with the family in the car. With the seats down the capacity becomes extremely accomodating and will fit a decent sized snowboard and a couple of mountain bikes. This car is definitely about space.
