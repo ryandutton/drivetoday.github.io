@@ -1,27 +1,32 @@
 ---
 layout: post
-title:  "Audi Q2 S-line, the hatchback disguised as an SUV"
+title:  "Volkswagen Golf Estate"
 author: ry
 categories: [ Review ]
-tags: [ "Drive", "SUV", "Premium"]
-image: assets/images/audiq2.jpg
-rating: 3.5
+tags: [ "Drive", "estate", "VW", "Practical"]
+image: assets/images/vwgolf.jpg
+rating: 4
 ---
 
-Price: £27,060 
+Price: £45,000
 
-- Body Style: SUV
-- Fuel Type: Diesel
-- Engine Size: 1598cc
-- BHP: 114 BHP
-- Top Speed: 122 MPH
-- 0-60 MPH: 10.50 Secs
+- Body Style: Saloon
+- Fuel Type: PHEV
+- Engine Size: 2000cc
+- BHP: 248 BHP
+- Top Speed: 145 MPH
+- 0-60 MPH: 5.8 Secs
 
-- High driving postion
-- size didn't feel much different to that of the A3
-- Sporty look to it
-- Good quality build for it's size
-- Slow 
+- Practical vehicle
+- Very spacious
+- Standard engine with a large tank for greater range
+- Reasonable build quality
+- interior is nice for a middle level car
+  - center console modern
+  - a great deal of space in the back
+- sturdy and good power output
+  - acceleration is enough to get you about
+  - Handles well 
 
 Introduction to the vehicle giving a quick overview and highlights of what liked and disliked about the vehicle, no more than two-three lines.
 

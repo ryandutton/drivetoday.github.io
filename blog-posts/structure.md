@@ -1,27 +1,21 @@
 ---
 layout: post
-title:  "Audi Q2 S-line, the hatchback disguised as an SUV"
+title:  "Make Model (trim) - tag line"
 author: ry
 categories: [ Review ]
-tags: [ "Drive", "SUV", "Premium"]
-image: assets/images/audiq2.jpg
-rating: 3.5
+tags: [ "Drive", "Body Type", "Level" ]
+image: assets/images/make/model/type.jpg
+rating: 5
 ---
 
-Price: £27,060 
+Price: £00,000
 
-- Body Style: SUV
-- Fuel Type: Diesel
-- Engine Size: 1598cc
-- BHP: 114 BHP
-- Top Speed: 122 MPH
-- 0-60 MPH: 10.50 Secs
-
-- High driving postion
-- size didn't feel much different to that of the A3
-- Sporty look to it
-- Good quality build for it's size
-- Slow 
+- Body Style: 
+- Fuel Type: 
+- Engine Size: 0000cc
+- BHP: 000 BHP
+- Top Speed: 000 MPH
+- 0-60 MPH: 0.0 Secs
 
 Introduction to the vehicle giving a quick overview and highlights of what liked and disliked about the vehicle, no more than two-three lines.
 
