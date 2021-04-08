@@ -3,3 +3,5 @@
 terraform/account.json
 terraform/.terraform/
 terraform/
+
+/**/node_modules/

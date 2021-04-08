@@ -3,11 +3,52 @@
   <channel>
     <title>Drive Today</title>
     <description>All things driving, reviews and great content.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Mar 2021 23:44:24 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Mar 2021 23:44:24 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Apr 2021 15:26:29 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Apr 2021 15:26:29 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Mercedez-benz A-Class AMG Line</title>
+        <description>&lt;p&gt;Price: £27,095&lt;/p&gt;
+
+&lt;p&gt;For such a small car, it makes a statement. The fact it is the premium trim adds to the impact it makes on the road. The front grill is quite possibly the cars most defining feature.&lt;/p&gt;
+
+&lt;p&gt;Although the entire car is pleasant to look at, it can become dull towards the back of the vehicle. It seems all the work has been put into making the front so special that the rear is lacking some care and attention, that being said it does not have a negative impact on the car in the slightest.&lt;/p&gt;
+
+&lt;p&gt;This car is for those who don’t need anything particularly large but still want a nice and slick looking car. It isn’t particularly fast even when going into the large engine sizes so bear that in mind if you want something nippy, other than that you can’t go wrong with the Mercedez A-Class.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, the styling of this vehicle is second to none, it has a stance that will leave a statement where ever you go.&lt;/p&gt;
+
+&lt;p&gt;The grill is the defining feature of the A-Class, it has a premium feel to the grill. There are two major designs the metal bars which drop vertically and the black diamond feature which spans across the entire grill. Unfortunately, it starts to lose its exploding design further backwards you go.&lt;/p&gt;
+
+&lt;p&gt;The interior of the car follows nicely from what you see of the outside with the sleek centre console straight out of a high-end model.&lt;/p&gt;
+
+&lt;p&gt;The Gear leaver isn’t in your typical location and instead on the steering wheel tidying up the space in the centre. Instead, you have a nice leather handrest which also allows greater control of the user interface.&lt;/p&gt;
+
+&lt;p&gt;If you do happen to be taking corners at any sort of speed then the bucket seats will give you a really snug feel, they are all leather with a nice and tight fit making sure you know you’re ready to take any corner thrown at you.&lt;/p&gt;
+
+&lt;p&gt;Although it is a slow vehicle, it feels stable and comfortable when accelerating. The engine is also nice and quiet when moving at higher speeds. When travelling at 70mph along the motorway then you will be happy to travel long distances, particularly with the diesel engine, providing extremely good miles per gallon.&lt;/p&gt;
+
+&lt;p&gt;To wrap it up, this is a wonderful car, it will get you from A to B in comfort and without using too much fuel. Also, don’t expect to get to that place quickly, but at least you’ll enjoy getting there.&lt;/p&gt;
+
+&lt;p&gt;The space offered is lacking ever so slightly so if you are going to be carrying 4-5 people in the car regularly then maybe look for something larger such as the B-Class or C-Class. If I was looking for a small to medium car for under £30,000, this would be near, if not, at the top of the list.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/mercedez-benz-a-class/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/mercedez-benz-a-class/</guid>
+        
+        <category>Drive</category>
+        
+        <category>Hatchback</category>
+        
+        <category>Premium</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>Skoda Octavia Estate</title>
@@ -34,9 +75,9 @@
 
 &lt;p&gt;Overall, the Skoda Octavia estate was a very reasonable car for the price range it is in. The cabin experience felt nice and contemporary. Fixtures such as the door handles and armrest could improve. Space is fantastic and a very good car for the money. If I required an entry-level car with a lot of space I would certainly consider this car.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-        <link>/skoda-octavia/</link>
-        <guid isPermaLink="true">/skoda-octavia/</guid>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/skoda-octavia/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/skoda-octavia/</guid>
         
         <category>Drive</category>
         
@@ -78,9 +119,9 @@
 
 &lt;p&gt;Now, onto one of the core reasons someone may decide to drive an SUV, the size. The amount of space throughout the car was fantastic, from the passenger space to the boot capacity.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-        <link>/volvo-xc60/</link>
-        <guid isPermaLink="true">/volvo-xc60/</guid>
+        <pubDate>Fri, 20 Nov 2020 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/volvo-xc60/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/volvo-xc60/</guid>
         
         <category>Drive</category>
         
@@ -122,9 +163,9 @@
 
 &lt;p&gt;Overall, I highly approve of the Mini Cooper S, it is extremely enjoyable and put and smile on my face and keep it there the entire time that I was behind the wheel. Although this may not be the most practical car particularly for carrying large loads, it is certainly a fun car and will make a fantastic Sunday driver.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-        <link>/mini-cooper-s-sport-hatch/</link>
-        <guid isPermaLink="true">/mini-cooper-s-sport-hatch/</guid>
+        <pubDate>Fri, 30 Oct 2020 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/mini-cooper-s-sport-hatch/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/mini-cooper-s-sport-hatch/</guid>
         
         <category>Drive</category>
         
@@ -153,9 +194,9 @@
 
 &lt;p&gt;Many of the E90 3 series came without a console screen, for many people that may be considered a negative factor when deciding if they wanted to own and drive a car. For me it was a blessing, it was less of a distraction and when night driving it became much more engaging not having a distractive bright screen lighting up the entire interior. I was able to focus more on the road ahead and became more immersed in the driving experience.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Sep 2020 00:00:00 +0100</pubDate>
-        <link>/bmw-3-series-e90/</link>
-        <guid isPermaLink="true">/bmw-3-series-e90/</guid>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/bmw-3-series-e90/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/bmw-3-series-e90/</guid>
         
         <category>Drive</category>
         

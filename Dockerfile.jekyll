@@ -14,5 +14,3 @@ RUN bundle install
 COPY blog .
 
 RUN jekyll build
-
-CMD ["entry_point.sh"]
