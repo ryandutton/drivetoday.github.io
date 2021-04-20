@@ -3,11 +3,59 @@
   <channel>
     <title>Drive Today</title>
     <description>All things driving, reviews and great content.</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Apr 2021 15:26:29 -0500</pubDate>
-    <lastBuildDate>Thu, 08 Apr 2021 15:26:29 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Apr 2021 21:13:20 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Apr 2021 21:13:20 +0100</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Audi Q2 S-line, the hatchback disguised as an SUV</title>
+        <description>&lt;p&gt;Price: £27,060&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Body Style: SUV&lt;/li&gt;
+  &lt;li&gt;Fuel Type: Diesel&lt;/li&gt;
+  &lt;li&gt;Engine Size: 1598cc&lt;/li&gt;
+  &lt;li&gt;BHP: 114 BHP&lt;/li&gt;
+  &lt;li&gt;Top Speed: 122 MPH&lt;/li&gt;
+  &lt;li&gt;0-60 MPH: 10.50 Secs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was an interesting vehicle to drive, it was a very high ride compared to the likes of the A-Class and A3, however, it handled just the same while also taking no more space when parking the vehicle in tight spots.&lt;/p&gt;
+
+&lt;p&gt;The size of the vehicle was lacking when it came to the interior. It shouts SUV when it comes to the look and feels but unfortunately lacks when it comes to size and capacity.&lt;/p&gt;
+
+&lt;p&gt;It’s unclear what the intended use of this vehicle is. It looks like a quality vehicle that is trying to enter the SUV world but just not quite living up to the other vehicles in its range such as the Q3.&lt;/p&gt;
+
+&lt;p&gt;Who is this vehicle for, it is unclear, but my take on it would be those who like compact sporty looking (not quite) SUVs and aren’t bothered about space and capacity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/audi/q2/exterior-back.jpg&quot; alt=&quot;Audi Q2 Exterior&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Audi Q2 is a very stylish vehicle both on the inside and out. It has very slick lines going the length of the vehicle. What wasn’t so nice was the basic A3 interior which always feels like it is lacking something. The gear stick does have a premium feel to it though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/audi/q2/interior.jpg&quot; alt=&quot;Audi Q2 Interior&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That being said, it was still very stylish and extremely well built for something near to an entry-level model.&lt;/p&gt;
+
+&lt;p&gt;The drive was nice. It isn’t the quickest car about although it can be nippy at low speeds. The handling was also nice and smooth when cornering.&lt;/p&gt;
+
+&lt;p&gt;Overall, it is a pleasant car. It looks nice and sporty, has a good ride height and establishes you on the road. However, it is a lot of money for something that isn’t quite as spacious as it looks. For the price tag, this comes as I’m not sure this would be the first choice for me.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+        <link>/audi-q2/</link>
+        <guid isPermaLink="true">/audi-q2/</guid>
+        
+        <category>Drive</category>
+        
+        <category>SUV</category>
+        
+        <category>Premium</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>Mercedez-benz A-Class AMG Line</title>
@@ -35,9 +83,9 @@
 
 &lt;p&gt;The space offered is lacking ever so slightly so if you are going to be carrying 4-5 people in the car regularly then maybe look for something larger such as the B-Class or C-Class. If I was looking for a small to medium car for under £30,000, this would be near, if not, at the top of the list.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Dec 2020 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/mercedez-benz-a-class/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/mercedez-benz-a-class/</guid>
+        <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+        <link>/mercedez-benz-a-class/</link>
+        <guid isPermaLink="true">/mercedez-benz-a-class/</guid>
         
         <category>Drive</category>
         
@@ -75,9 +123,9 @@
 
 &lt;p&gt;Overall, the Skoda Octavia estate was a very reasonable car for the price range it is in. The cabin experience felt nice and contemporary. Fixtures such as the door handles and armrest could improve. Space is fantastic and a very good car for the money. If I required an entry-level car with a lot of space I would certainly consider this car.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Dec 2020 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/skoda-octavia/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/skoda-octavia/</guid>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+        <link>/skoda-octavia/</link>
+        <guid isPermaLink="true">/skoda-octavia/</guid>
         
         <category>Drive</category>
         
@@ -119,9 +167,9 @@
 
 &lt;p&gt;Now, onto one of the core reasons someone may decide to drive an SUV, the size. The amount of space throughout the car was fantastic, from the passenger space to the boot capacity.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Nov 2020 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/volvo-xc60/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/volvo-xc60/</guid>
+        <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+        <link>/volvo-xc60/</link>
+        <guid isPermaLink="true">/volvo-xc60/</guid>
         
         <category>Drive</category>
         
@@ -163,9 +211,9 @@
 
 &lt;p&gt;Overall, I highly approve of the Mini Cooper S, it is extremely enjoyable and put and smile on my face and keep it there the entire time that I was behind the wheel. Although this may not be the most practical car particularly for carrying large loads, it is certainly a fun car and will make a fantastic Sunday driver.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Oct 2020 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/mini-cooper-s-sport-hatch/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/mini-cooper-s-sport-hatch/</guid>
+        <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+        <link>/mini-cooper-s-sport-hatch/</link>
+        <guid isPermaLink="true">/mini-cooper-s-sport-hatch/</guid>
         
         <category>Drive</category>
         
@@ -194,9 +242,9 @@
 
 &lt;p&gt;Many of the E90 3 series came without a console screen, for many people that may be considered a negative factor when deciding if they wanted to own and drive a car. For me it was a blessing, it was less of a distraction and when night driving it became much more engaging not having a distractive bright screen lighting up the entire interior. I was able to focus more on the road ahead and became more immersed in the driving experience.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Sep 2020 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/bmw-3-series-e90/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/bmw-3-series-e90/</guid>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 +0100</pubDate>
+        <link>/bmw-3-series-e90/</link>
+        <guid isPermaLink="true">/bmw-3-series-e90/</guid>
         
         <category>Drive</category>
         

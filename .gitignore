@@ -5,3 +5,5 @@ terraform/.terraform/
 terraform/
 
 /**/node_modules/
+blog/.bundle/
+blog/vendor/

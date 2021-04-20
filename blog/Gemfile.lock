@@ -141,7 +141,7 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux-musl
+  x86_64-linux
 
 DEPENDENCIES
   bootstrap (~> 4.4.1)
@@ -155,4 +155,4 @@ DEPENDENCIES
   rouge
 
 BUNDLED WITH
-   2.2.2
+   2.2.16
