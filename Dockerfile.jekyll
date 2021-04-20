@@ -14,3 +14,5 @@ RUN bundle install
 COPY blog .
 
 RUN jekyll build
+
+CMD ['jekyll serve --destination docs']
